@@ -1,6 +1,6 @@
 import React from 'react';
 import { BiSolidLock } from 'react-icons/bi';
-import bg from './Assets/bg.png';
+import bg from '/Users/harshtyagi/Desktop/cuvette/pocket_notes/src/Assets/bg.png';
 
 
 import notestyle from './notes.module.css';
